@@ -10,7 +10,7 @@ import './index.css';
 const ProtectedRoute = ({ children }) => {
   const { isAuthenticated } = useAuth();
   // Demo mode - set to false to require login, true to bypass
-  const isDemoMode = true; // Updated for deployment
+  const isDemoMode = false; // Show login page for assignment
   return (isAuthenticated || isDemoMode) ? <>{children}</> : <Navigate to="/login" />;
 };
 

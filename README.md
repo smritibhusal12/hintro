@@ -2,6 +2,13 @@
 
 A comprehensive task management application built with **React JavaScript** and Tailwind CSS. This application demonstrates frontend engineering best practices including state management, drag-and-drop functionality, and local storage persistence.
 
+## 🔑 Login Credentials
+
+**Email**: `intern@demo.com`  
+**Password**: `intern123`
+
+*These credentials are displayed on the login page for easy access*
+
 ## Features
 
 ### Authentication
