@@ -18,7 +18,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://[your-username].github.io/task-board",
+  "homepage": "https://smritibhusal12.github.io/hintro",
   "devDependencies": {
     "@testing-library/jest-dom": "^6.1.5",
     "@testing-library/react": "^13.4.0",
